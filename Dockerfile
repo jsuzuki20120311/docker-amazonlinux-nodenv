@@ -1,5 +1,4 @@
 FROM amazonlinux:latest
-
 LABEL maintainer jsuzuki20120311 <shukatu.2012.5.25@gmail.com>
 
 ARG NODE_VERSION=12.18.3
